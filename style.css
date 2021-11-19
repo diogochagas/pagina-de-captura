@@ -1,0 +1,75 @@
+body {
+    background-image: url(background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Lato', sans-serif;
+    ;
+}
+
+.container {
+    width: 480px;
+    text-align: center;
+    margin: 70px auto;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+h1 {
+    font-weight: 1200;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-weight: 900;
+    margin-top: 2px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-weight: 900;
+    margin-top: 2px;
+}
+
+.foto-principal {
+    margin-top: 50px;
+}
+
+.label {
+    color: white;
+    font-size: 13px;
+    text-align: center;
+    width: 480px;
+}
+
+.input1 {
+    width: 480px;
+    margin-top: 5px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 5px;
+    border: 0;
+
+}
+
+.button {
+    width: 490px;
+    margin-top: 5px;
+    height: 38px;
+    background-color: #2596be;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    border: 0;
+    font-size: 15px;
+    
+}
+
+.button:hover{
+    background-color: #1d799b;
+
+}
